@@ -1,4 +1,4 @@
-# Android_Studio_Image_Detection
+# Android Studio Object Detection
 
 ## 1. SSD_mobilenet_v3
 
